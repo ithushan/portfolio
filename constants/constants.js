@@ -1,11 +1,11 @@
 export const NAME = 'Muhammad Osama Javaid';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `Full Stack Developer | NEXT.js developer `;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'Sri Lanka',
+  City: 'Vavuniya',
+  Age: '24',
 };
 
 export const SKILLS = [
@@ -23,45 +23,43 @@ export const SKILLS = [
   // },
   {
     title: 'Backend Developer',
-    level: '54%',
+    level: '50%',
   },
-  {
-    title: 'Technical Blogger',
-    level: '83%',
-  },
+  // {
+  //   title: 'Technical Blogger',
+  //   level: '83%',
+  // },
 ];
 
 export const TECH_STACK = [
   'JavaScript',
+  '(C#) Visual Studio',
+  'JAVA',
   'ReactJS',
   'NextJS',
   'TypeScript',
   'NodeJS',
   'Redux',
-  'Zustand',
   'CSS',
-  'SCSS',
   'TailwindCSS',
-  'Ant Design',
+  'styleX',
   'Material UI',
-  'Next UI',
   'REST API',
   'MongoDB',
   'MySQL',
   'Git',
   'GitHub',
-  'Jira',
+  'Slack',
   'Figma',
-  'Adobe XD',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'ssmithushan115@gmail.com',
+  PHONE: '+94 76 447 2115',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/ithushan',
+  LINKEDIN: 'https://www.linkedin.com/in/mithu-shan-bb430b26b/',
+  // TWITTER: 'https://twitter.com/iosamajavaid',
+  // FACEBOOK: 'https://www.facebook.com/iosamajavaid',
 };

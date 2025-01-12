@@ -1,28 +1,28 @@
 const expertise = [
     {
         id: 0,
-        title: 'Full Stack Development',
-        desc: 'I am a skilled MERN stack developer with extensive experience in building robust web applications using MongoDB, Express.js, React.js, and Node.js. I possess a strong understanding of server-side rendering, API integration, and database management. With my expertise, I can deliver dynamic and efficient web solutions tailored to meet the unique requirements of clients.',
+        title: 'Front-End Development',
+        desc: 'Proficient in developing responsive and visually appealing user interfaces using modern frameworks and tools, including HTML, CSS, JavaScript, React, Next.js, TypeScript, Tailwind CSS, and StyleX. Experienced in implementing role-based projects and ensuring seamless responsiveness across devices.',
     },
     {
         id: 1,
-        title: 'Scrum and Jira',
-        desc: "As a developer, I'm proficient in Jira and Scrum methodologies. I use Jira to simplify project management tasks like task assignment, prioritization, and progress tracking. Scrum has improved my teamwork, utilizing daily stand-ups, sprint planning, and retrospectives. My expertise ensures high-quality software products are delivered promptly.",
+        title: 'Back-End Development',
+        desc: "Familiar with server-side development using Node.js and Firebase. Experience in building and integrating RESTful APIs, managing databases, and ensuring secure authentication processes. Hands-on practice with PHP for back-end implementations in college projects.",
     },
     {
         id: 2,
-        title: 'Designing (UI/UX)',
-        desc: 'I am proficient in using design software such as Figma, Adobe XD, and Adobe Illustrator. Through participating in hackathons and freelance work, I have gained practical experience in UI/UX design and graphic design. Designing is my passion, and it has allowed me to continue to develop my creative skills and grow in the field.',
+        title: 'Database Management Systems (DBMS)',
+        desc: 'Practical knowledge of database design and management concepts. Skilled in using Firebase (NoSQL) for real-time database solutions and proficient in SQL basics for structured data handling.',
     },
     {
         id: 3,
-        title: 'Github',
-        desc: "GitHub is essential for version control and collaboration. Its intuitive interface and features like pull requests and issue tracking simplify the process. Continuous integration ensures up-to-date code. GitHub is vital to my success as a developer.",
+        title: 'Data Structures and Algorithms (DSA)',
+        desc: "Solid foundation in data structures and algorithms, with experience applying DSA concepts to solve problems efficiently and optimize application performance.",
     },
     {
         id: 4,
-        title: 'Open Source Contributor',
-        desc: "Open Source is the future. I usually take some time on weekend and contribute into opensource project. It gives me opportunity to learn from best developer's practices and also gives me a chance to help others and contribute into the community for the good.",
+        title: 'Version Control (Git and GitHub)',
+        desc: "Experienced in using Git and GitHub for version control, repository management, and collaborative development. Familiar with branching, pull requests, and resolving merge conflicts.",
     },
 ]
 
